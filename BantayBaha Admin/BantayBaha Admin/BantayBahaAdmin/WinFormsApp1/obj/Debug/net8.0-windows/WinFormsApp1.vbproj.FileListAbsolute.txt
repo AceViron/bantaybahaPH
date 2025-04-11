@@ -1,0 +1,184 @@
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form6.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form7.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form8.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.CommonProtos.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Firestore.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Location.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.LongRunning.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Auth.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Linq.Async.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mylene\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.CommonProtos.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Firestore.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Cloud.Location.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.LongRunning.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Auth.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Linq.Async.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form6.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form7.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form8.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.D9FEAF7E.Up2Date
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ace\Desktop\BantayBaha Admin\BantayBaha Admin\BantayBahaAdmin\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

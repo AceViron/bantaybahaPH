@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BantayBaha PH</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<!-- Font Google -->
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="module" src="firebaseauth.js"></script>
+<script type="module" src="resrescue.js"></script>
+</head>
+
+<body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg">
+  <div class="container"> <a class="navbar-brand navbar-logo" href="#"> <img src="images/logo.png" alt="logo" class="logo-1"> </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="fas fa-bars"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"> <a class="nav-link" href="" data-scroll-nav="0">Home</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="1">Rescue</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="2">Hotlines</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="3">Register</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="6">Contact</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- End Navbar --> 
+<!-------Banner Start------->
+
+<section class="banner" data-scroll-index='0'>
+  <div class="banner-overlay">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-12">
+          <div class="banner-text">
+            <h2 class="white">Introducing BantayBaha PH</h2>
+            <h6 class="white">Your essential companion for flood safety and awareness in the Philippines.</h6>
+            <p class="banner-text white">The app provides real-time flood level monitoring, allowing you to track conditions as they change. In critical situations, you can instantly request a rescue, ensuring help is just a tap away. You can also mark yourself as safe, offering peace of mind to your loved ones. Additionally, the app sends important notifications and alerts about flood warnings, weather updates, and evacuation advisories, helping you stay ahead of any potential danger. With BantayBaha PH, you have the power to take control of your safety and respond effectively to flood emergencies.</p>
+            <a href="#" class="btn-download">Download BantayBaha PH</a>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-12">
+          <img src="images/iphone-screen.png" class="img-fluid wow fadeInUp"/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class="svg-wave">
+    <img class="svg-hero" src="images/applight-wave.svg">
+  </span>
+</section>
+
+<!-------Banner End------->  
+
+
+<!-------Request Rescue Start------->
+
+<section class="request-rescue section-padding prelative" data-scroll-index='1'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Request Rescue</h3>
+          <span class="line"></span>
+          <p>Please fill out the form below to request immediate rescue assistance.</p>
+        </div>
+        <div class="section-content text-center">
+          <form action="" method="post">
+            <div id="signUpMessage" class="messageDiv" style="display:none;"></div>
+            <div class="row">
+              <div class="col-md-4">
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" id="rname" name="name" class="form-control" placeholder="Your Name" required>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="form-group">
+                  <label for="address">Address</label>
+                  <input type="text" id="raddress" name="address" class="form-control" placeholder="Your Address" required>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="form-group">
+                  <label for="contact">Contact Number</label>
+                  <input type="text" id="rcontact" name="contact" class="form-control" placeholder="Your Contact Number" required>
+                </div>
+              </div>
+            </div>
+            <button type="submit" id="rsubmit" class="btn btn-primary">Request Rescue</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Request Rescue End------->
+
+
+<!-------Video Start------->
+<section class="video-section prelative text-center white">
+  <div class="section-padding video-overlay">
+    <div class="container">
+      <h3>Watch Now</h3>
+      <i class="fa fa-play" id="video-icon" aria-hidden="true"></i>
+      <div class="video-popup">
+        <div class="video-src">
+          <div class="iframe-src">
+            <iframe src="https://www.youtube.com/embed/aYrJX-mgSn8?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-------Video End-------> 
+
+<!-------Emergency Hotlines Start------->
+
+<section class="emergency-hotlines section-padding" data-scroll-index='2'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Emergency Hotlines</h3>
+          <span class="line"></span>
+          <p>In case of emergency, please contact the following hotlines:</p>
+        </div>
+        <div class="section-content text-center">
+          <div class="row">
+            <div class="col-md-4 col-sm-12">
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.2s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Rescue Operations</h5>
+                  <p>For immediate rescue assistance, call:</p>
+                  <p><strong>+63 912 345 6789</strong></p>
+                </div>
+                <div class="media-right icon-border"> <span class="fa fa-phone" aria-hidden="true"></span> </div>
+              </div>
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.4s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Emergency Medical</h5>
+                  <p>For medical emergencies, contact:</p>
+                  <p><strong>+63 912 234 5678</strong></p>
+                </div>
+                <div class="media-right icon-border"> <span class="fa fa-medkit" aria-hidden="true"></span> </div>
+              </div>
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.6s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Fire Department</h5>
+                  <p>For fire emergencies, call:</p>
+                  <p><strong>+63 912 345 6780</strong></p>
+                </div>
+                <div class="media-right icon-border"> <span class="fa fa-fire-extinguisher" aria-hidden="true"></span> </div>
+              </div>
+            </div>
+            <div class="col-md-4 d-none d-md-block d-lg-block">
+              <div class="hotline-image"> <img src="images/iphone-screen-with-shadow.png" class="img-fluid wow fadeInUp"/> </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.2s">
+                <div class="media-left icon-border media-right-margin"> <span class="fa fa-info-circle" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>General Inquiries</h5>
+                  <p>For general emergency information, contact:</p>
+                  <p><strong>+63 912 456 7890</strong></p>
+                </div>
+              </div>
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.4s">
+                <div class="media-left icon-border media-right-margin"> <span class="fa fa-bullhorn" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Public Announcements</h5>
+                  <p>For public safety announcements, call:</p>
+                  <p><strong>+63 912 567 8901</strong></p>
+                </div>
+              </div>
+              <div class="media single-hotline wow fadeInUp" data-wow-delay="0.6s">
+                <div class="media-left icon-border media-right-margin"> <span class="fa fa-user-shield" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Security Services</h5>
+                  <p>For security-related emergencies, contact:</p>
+                  <p><strong>+63 912 678 9012</strong></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Emergency Hotlines End------->  
+ 
+
+<!-------Register Start------->
+
+<section class="register section-padding" data-scroll-index='3'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Register</h3>
+          <span class="line"></span>
+          <p>Please fill out the form below to create an account.</p>
+        </div>
+        <div class="section-content text-center">
+          <form action="" method="post">
+            <div id="signUpMessage" class="messageDiv" style="display:none;"></div>
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input type="text" id="uname" name="name" class="form-control" placeholder="Your Name" required>
+            </div>
+            <div class="form-group">
+              <label for="address">Address</label>
+              <input type="text" id="uaddress" name="address" class="form-control" placeholder="Your Address" required>
+            </div>
+            <div class="form-group">
+              <label for="contact">Contact Number</label>
+              <input type="text" id="ucontact" name="contact" class="form-control" placeholder="Your Contact Number" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" class="form-control" placeholder="Your Email" required>
+            </div>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" id="password" name="password" class="form-control" placeholder="Your Password" required>
+            </div>
+            <button type="submit" id="submit" class="btn btn-primary">Register</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Register End------->  
+
+<!-------Contact Start------->
+
+<section class="contact section-padding" data-scroll-index='6'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Contact Our Developers</h3>
+          <span class="line"></span>
+          <p>Meet the team behind the app. Feel free to reach out to any of our developers for support or inquiries.</p>
+        </div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="developer-info text-center">
+                <div class="developer-item">
+                  <img src="images/user1.jpg" class="img-fluid rounded-circle" alt="Developer 1">
+                  <h4>Viron Ace Almaden</h4>
+                  <p>Developer</p>
+                  <p>Email: <a href="vironacealmaden026@gmail.com">viron@gmail.com</a></p>
+                </div>
+                <div class="developer-item">
+                  <img src="images/user2.jpg" class="img-fluid rounded-circle" alt="Developer 2">
+                  <h4>Lanz Jonanson Serrano</h4>
+                  <p>Developer</p>
+                  <p>Email: <a href="lanzserranoofficial@gmail.com">lanz@gmail.com</a></p>
+                </div>
+                <div class="developer-item">
+                  <img src="images/user3.jpg" class="img-fluid rounded-circle" alt="Developer 3">
+                  <h4>Ronn Vincent Bustamante</h4>
+                  <p>Member</p>
+                  <p>Email: <a href="ronnvincent1109@gmail.com">ronn@gmail.com</a></p>
+                </div>
+                <div class="developer-item">
+                  <img src="images/user4.jpg" class="img-fluid rounded-circle" alt="Developer 4">
+                  <h4>Lloyd Kenneth Cabrera</h4>
+                  <p>Member</p>
+                  <p>Email: <a href="lloydkenneth@gmail.com">lloyd@gmail.com</a></p>
+                </div>
+                <div class="developer-item">
+                  <img src="images/user5.jpg" class="img-fluid rounded-circle" alt="Developer 5">
+                  <h4>Syra Jade Yranon</h4>
+                  <p>Member</p>
+                  <p>Email: <a href="syrajade@gmail.com">syra@gmail.com</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Contact End------->  
+  
+
+
+<!-------Download Start------->
+
+<section class="download section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center white">
+          <h3>Download Our App</h3>
+          <span class="line"></span>
+          <p class="white">Download BantayBahaPH App now!</p>
+        </div>
+      </div>
+      <div class="col-md-12 text-center">
+        <a href="#" class="btn-download">Download BantayBaha PH</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Download End------->  
+
+
+<footer class="footer-copy">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+      
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script> 
+<!-- scrollIt js --> 
+<script src="js/scrollIt.min.js"></script> 
+<script src="js/wow.min.js"></script> 
+<script>
+	wow = new WOW();
+	wow.init();
+$(document).ready(function(e) {
+
+	$('#video-icon').on('click',function(e){
+	e.preventDefault();
+	$('.video-popup').css('display','flex');
+	$('.iframe-src').slideDown();
+	});
+	$('.video-popup').on('click',function(e){
+	var $target = e.target.nodeName;
+	var video_src = $(this).find('iframe').attr('src');
+	if($target != 'IFRAME'){
+	$('.video-popup').fadeOut();
+	$('.iframe-src').slideUp();
+	$('.video-popup iframe').attr('src'," ");
+	$('.video-popup iframe').attr('src',video_src);
+	}
+	});
+
+	$('.slider').bxSlider({
+	pager: false
+	});
+});
+    
+$(window).on("scroll",function () {
+
+	var bodyScroll = $(window).scrollTop(),
+	navbar = $(".navbar");
+	
+	if(bodyScroll > 50){
+	$('.navbar-logo img').attr('src','images/logo-black.png');
+	navbar.addClass("nav-scroll");
+
+}else{
+	$('.navbar-logo img').attr('src','images/logo.png');
+	navbar.removeClass("nav-scroll");
+}
+
+});
+$(window).on("load",function (){
+	var bodyScroll = $(window).scrollTop(),
+	navbar = $(".navbar");
+	
+	if(bodyScroll > 50){
+	$('.navbar-logo img').attr('src','images/logo-black.png');
+	navbar.addClass("nav-scroll");
+	}else{
+	$('.navbar-logo img').attr('src','images/logo-white.png');
+	navbar.removeClass("nav-scroll");
+	}
+
+	$.scrollIt({
+	
+	easing: 'swing',      // the easing function for animation
+	scrollTime: 900,       // how long (in ms) the animation takes
+	activeClass: 'active', // class given to the active nav element
+	onPageChange: null,    // function(pageIndex) that is called when page is changed
+	topOffset: -63
+	});
+});
+
+</script>
+</body>
+</html>

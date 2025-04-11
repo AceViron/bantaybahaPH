@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|c:\\users\\n\\desktop\\bantaybaha\\admin\\admin_app\\admin_app\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4177952A-A5BC-4E12-A7EA-781D5E276F85}|Admin_app\\Admin_app.vbproj|solutionrelative:admin_app\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form1.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form1.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form1.vb",
+              "RelativeToolTip": "Admin_app\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T14:50:19.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Module1.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Module1.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Module1.vb",
+              "RelativeToolTip": "Admin_app\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T16:14:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form3.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form3.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form3.vb",
+              "RelativeToolTip": "Admin_app\\Form3.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T15:51:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form2.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form2.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form2.vb",
+              "RelativeToolTip": "Admin_app\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T15:30:25.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form2.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form2.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form2.vb [Design]",
+              "RelativeToolTip": "Admin_app\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T15:11:02.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form1.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form1.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form1.vb [Design]",
+              "RelativeToolTip": "Admin_app\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T14:41:30.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form3.vb",
+              "RelativeDocumentMoniker": "Admin_app\\Form3.vb",
+              "ToolTip": "C:\\Users\\N\\Desktop\\BantayBaha\\Admin\\Admin_app\\Admin_app\\Form3.vb [Design]",
+              "RelativeToolTip": "Admin_app\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-16T15:31:47.595Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
